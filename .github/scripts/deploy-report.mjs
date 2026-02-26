@@ -122,7 +122,6 @@ function buildReport(webhook, readResult, fetchResult) {
       nodeId: meta?.node_id,
       setName: meta?.containing_frame?.containing_component_set?.name
         || meta?.containing_frame?.containingComponentSet?.name
-        || meta?.containing_frame?.name
         || c.name,
     };
   };
