@@ -8,5 +8,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 0.1.0 - 2026-02-26
 
 ### 추가
-- [normal](https://www.figma.com/file/O1WTxthxL51pHpLrWMWAf7?node-id=2509:976)
-
+- [align-right-stroke](https://www.figma.com/file/O1WTxthxL51pHpLrWMWAf7?node-id=2509:976)
