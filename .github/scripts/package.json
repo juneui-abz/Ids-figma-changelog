@@ -1,1 +1,6 @@
-
+{
+  "type": "module",
+  "dependencies": {
+    "@octokit/rest": "^21.0.0"
+  }
+}
