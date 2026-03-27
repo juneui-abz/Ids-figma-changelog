@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 0.12.0 - 2026-03-27
+
+### 수정
+- [divider](https://www.figma.com/file/O1WTxthxL51pHpLrWMWAf7?node-id=1135:1098) *(2)*
+
+### 삭제
+- direction=horizontal, type=thick
+
 ## 0.11.0 - 2026-03-27
 
 ### 추가
