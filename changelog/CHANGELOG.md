@@ -5,6 +5,77 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 0.14.0 - 2026-03-31
+
+### 추가
+- [button](https://www.figma.com/file/O1WTxthxL51pHpLrWMWAf7?node-id=3075:6) *(14)*
+- variable=critical, state=pressed, size=xs
+- variable=critical, state=hover, size=l
+
+### 수정
+- [button](https://www.figma.com/file/O1WTxthxL51pHpLrWMWAf7?node-id=812:5200) *(37)*
+- variable=brand, state=pressed, size=xs
+- variable=neutral outline, state=enabled, size=s
+- variable=neutral, state=hover, size=m
+- variable=neutral weak, state=hover, size=s
+- variable=neutral, state=enabled, size=m
+- variable=brand, state=disabled, size=xs
+- variable=neutral, state=enabled, size=s
+- variable=neutral outline, state=disabled, size=xs
+- variable=neutral weak, state=disabled, size=l
+- variable=neutral ghost, state=hover, size=s
+- variable=brand, state=hover, size=m
+- variable=neutral ghost, state=enabled, size=l
+- variable=brand, state=pressed, size=m
+- variable=neutral weak, state=hover, size=m
+- variable=brand, state=disabled, size=s
+- variable=neutral, state=pressed, size=l
+- variable=neutral, state=disabled, size=l
+- variable=neutral ghost, state=hover, size=m
+- variable=neutral ghost, state=pressed, size=l
+- variable=neutral weak, state=hover, size=xs
+- variable=neutral outline, state=hover, size=s
+- variable=neutral, state=hover, size=l
+- variable=neutral ghost, state=pressed, size=xs
+- variable=brand, state=disabled, size=l
+- variable=neutral outline, state=hover, size=l
+- variable=neutral outline, state=hover, size=xs
+- variable=neutral ghost, state=disabled, size=s
+- variable=neutral weak, state=pressed, size=l
+- variable=neutral ghost, state=hover, size=l
+- variable=neutral, state=disabled, size=m
+- variable=neutral outline, state=disabled, size=m
+- variable=neutral weak, state=pressed, size=s
+- variable=neutral ghost, state=disabled, size=l
+- variable=neutral, state=pressed, size=m
+- variable=neutral weak, state=enabled, size=s
+- variable=brand, state=disabled, size=m
+- variable=neutral, state=enabled, size=xs
+- variable=neutral ghost, state=pressed, size=m
+- variable=brand, state=pressed, size=l
+- variable=neutral outline, state=pressed, size=s
+- variable=neutral, state=pressed, size=xs
+- variable=neutral weak, state=pressed, size=m
+- variable=brand, state=enabled, size=xs
+
+### 삭제
+- label=text, type=outline, state=hover, size=s
+- label=text, type=outline, state=default, size=l
+- label=text, type=outline, state=default, size=m
+- label=text, type=outline, state=default, size=s
+- label=text, type=outline, state=default, size=xs
+- label=text, type=outline, state=hover, size=m
+- label=text, type=outline, state=disabled, size=l
+- label=text, type=outline, state=disabled, size=s
+- label=text, type=outline, state=focus, size=xs
+- label=text, type=outline, state=focus, size=s
+- label=text, type=outline, state=focus, size=m
+- label=text, type=outline, state=disabled, size=m
+- label=text, type=outline, state=hover, size=xs
+- label=text, type=outline, state=disabled, size=xs
+- label=text, type=outline, state=hover, size=l
+- label=text, type=outline, state=focus, size=l
+
 ## 0.13.0 - 2026-03-31
 
 ### 추가
